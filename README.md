@@ -1,8 +1,8 @@
-# jpa03-jasun-li: dsre
+# jpa03-jasun-li
 
 github repo: <https://github.com/ucsb-cs156-w22/jpa03-jasun-li>
 
-badge: [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jasun-li/branch/master/graph/badge.svg?token=lkHi92uqwl)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jasun-li)
+badge: [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jasun-li/branch/main/graph/badge.svg?token=lkHi92uqwl)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-jasun-li)
 
 Storybook is here:
 
