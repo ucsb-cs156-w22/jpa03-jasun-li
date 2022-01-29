@@ -16,7 +16,7 @@ Each of these three steps is explained in more detail below.
 * The `.env` file is created by copying it from `.env.SAMPLE` and then editing it, e.g.
   
   ```
-  cp .env.SAMPLE .env
+  cp .env.SAMPLE .env 
   ```
 * Recall that `.env` and `.env.SAMPLE` will not show up in regular directory listings; files starting with `.` are considered
   hidden files.  Use `ls -a`, or configure your Mac finder/Windows explorer to show hidden files.
